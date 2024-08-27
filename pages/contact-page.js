@@ -1,4 +1,4 @@
-import Layout from "../Components/Layout";
+import Layout from "../components/Layout";
 import Image from "next/image"; //画像の圧縮など最適化してくれる機能
 
 const Contact = () => {
